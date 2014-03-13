@@ -13,6 +13,9 @@ This allows the user to embed auto-playing looping Flickr galleries with a simpl
 PHP 5.3+
 This has been tested on Wordpress 3.5.1 and newer.  It is powered by just a few lines of javascript.  
 
+###Installation###
+
+The most simple way to install this is to go to the plugins directory of your Wordpress installation and clone this repo.  Then, in the admin console, go to Plugins->Installed and activate it.  That's it!
 
 ###Admin Interface###
 
