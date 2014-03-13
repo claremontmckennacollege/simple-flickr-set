@@ -15,7 +15,7 @@ This has been tested on Wordpress 3.5.1 and newer.  It is powered by just a few 
 
 ###Installation###
 
-The most simple way to install this is to go to the plugins directory of your Wordpress installation and clone this repo.  Then, in the admin console, go to Plugins->Installed and activate it.  That's it!
+The most simple way to install this is to go to the plugins directory (/wp-content/plugins) of your Wordpress installation and clone this repo.  Then, in the admin console, go to Plugins->Installed and activate it.  That's it!
 
 ###Admin Interface###
 
