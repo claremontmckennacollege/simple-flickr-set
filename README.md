@@ -21,7 +21,7 @@ The most simple way to install this is to go to the plugins directory (/wp-conte
 
 To begin simply add your Flickr API key and url in the "Simple Flickr Set" menu (requires Editor or above).  The page will then list all your photosets and give you a shortcode to paste into your post or page.
 
-[![SFS Admin screen](./examples/sfs-admin.png)]
+![SFS Admin page](./examples/sfs-admin.png)
 
 ###Using the shortcode###
 
@@ -29,7 +29,7 @@ The most basic way is to simply use a photoset ID (the admin page will look thes
 
 ```[simple-flickr set=72157633015103114]```
 
-[![SFS Embedded slideshow](./examples/sfs-embed.png)]
+![Embedded slideshow](./examples/sfs-embed.png)
 
 You can additionally specify height and width, using any valid CSS.  It defaults to 500x460, the default Flickr iframe embed (back when that worked...)
 
